@@ -1,5 +1,7 @@
 # Rejestr kontroli jakości
 
+![RJK Preview](img/rkj-preview.png)
+
 Aplikacja przeglądarkowa do ewidencji kontroli końcowej. Obsługuje kontrole jednej lub dwóch osób, wady wspólne i indywidualne, grafik zmian oraz zestawienia jakości.
 
 HTML, CSS i JavaScript bez frameworków, zewnętrznych usług i zależności wykonawczych. Nie wymaga budowania ani instalacji pakietów.
