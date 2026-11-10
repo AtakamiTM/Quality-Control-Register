@@ -1,0 +1,13 @@
+{
+  "name": "rejestr-kontroli-jakosci",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lokalny rejestr kontroli jakości z grafikiem zmian i zestawieniami.",
+  "scripts": {
+    "test": "node --test app.test.cjs",
+    "check": "node --check app.js && node --check app.test.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

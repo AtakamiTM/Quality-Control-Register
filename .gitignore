@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+kopia-kontroli-*.json
+kontrole-zapis-awaryjny-*.txt
+kontrole-*.csv
+analiza-*.csv
